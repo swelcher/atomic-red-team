@@ -33,7 +33,7 @@ atomic_tests:
 
 - name: Mimikatz & Kittenz
   description: |
-    Mimikatz/kittenz - These will require additional files to execute. Placeholder for now.
+    Mimikatz/kittenz - This will require a Mimikatz executable or invoke-mimikittenz ps module.
   supported_platforms:
     - windows
   executor:
