@@ -49,7 +49,7 @@ atomic_tests:
     map_name:
       description: Mapped Drive Letter
       type: String
-      default: z
+      default: g
   executor:
     name: powershell
     command: |
